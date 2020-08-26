@@ -1,1 +1,2 @@
-# Expo_ReactNative_ObjectDection_CloudConnection
+# 介紹
+##### **這是一個使用React Native來實現遠端連線YOLO模型，讓使用者可以只需要攜帶手機，即可連線原生的模型，享受最快且無負擔的辨識結果。**
