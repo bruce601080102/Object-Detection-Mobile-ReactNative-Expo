@@ -48,7 +48,7 @@
 </div> 
    
 
-<div width="100" align="center" > 
+<div margin: 50 auto align="center" > 
    
 - [x] GFM task list 1
 
