@@ -18,11 +18,15 @@
 <div>
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(3)安裝Android Studio</<h3> 
 </div>
-<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp本機-->右鍵內容-->進階設定-->環境變數-->系統變數(path)-->新增路徑(font-weight:bold;)</strong>  
-<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp本機-->右鍵內容-->進階設定-->環境變數-->系統變數(path)-->新增路徑(font-weight:bold;)</strong>
-<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp本機-->右鍵內容-->進階設定-->環境變數-->系統變數(path)-->新增路徑(font-weight:bold;)</strong>
-<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp本機-->右鍵內容-->進階設定-->環境變數-->系統變數(path)-->新增路徑(font-weight:bold;)</strong>
-<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp本機-->右鍵內容-->進階設定-->環境變數-->系統變數(path)-->新增路徑(font-weight:bold;)</strong>
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.	選擇安裝磁碟位置(font-weight:bold;)</strong>  
+   
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2.	右下角點選Configure。(font-weight:bold;)</strong>
+
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp3.	開啟SDK Manager。(font-weight:bold;)</strong>
+
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp4.	選擇SDK Platforms。(font-weight:bold;)</strong>
+
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp右下打勾Show Package Details。(font-weight:bold;)</strong>
 
 
    
