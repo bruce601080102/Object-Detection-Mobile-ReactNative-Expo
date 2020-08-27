@@ -11,7 +11,7 @@
 <div>
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(1)安裝NodeJS</<h3> 
 </div> 
-<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp本機-->右鍵內容-->進階設定-->環境變數-->系統變數(path)-->新增路徑(font-weight:bold;)</strong>
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp本機-->右鍵內容-->進階設定-->環境變數-->系統變數(path)-->新增路徑(font-weight:bold;)</strong>
 
    
 <div align="center">
