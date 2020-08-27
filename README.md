@@ -18,15 +18,20 @@
 <div>
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(3)安裝Android Studio</<h3> 
 </div>
-<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.	選擇安裝磁碟位置(font-weight:bold;)</strong>  
-   
-<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2.	右下角點選Configure。(font-weight:bold;)</strong>
+<div> 
+   <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.	選擇安裝磁碟位置(font-weight:bold;)</strong>  
+</div>    
+<div> 
+   <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2.	右下角點選Configure。(font-weight:bold;)</strong>  
+</div>  
+<div> 
+   <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp3.	開啟SDK Manager。(font-weight:bold;)</strong>  
+</div>    
+<div> 
+   <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp4.	選擇SDK Platforms。(font-weight:bold;)</strong>  
+</div>  
 
-<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp3.	開啟SDK Manager。(font-weight:bold;)</strong>
 
-<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp4.	選擇SDK Platforms。(font-weight:bold;)</strong>
-
-<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp右下打勾Show Package Details。(font-weight:bold;)</strong>
 
 
    
