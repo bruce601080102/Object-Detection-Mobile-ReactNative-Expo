@@ -42,6 +42,30 @@
 
 在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
 
+在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
+在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
+在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
+在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
+在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
+在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
+在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
+在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
+在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
+在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
+在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
+在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
 
 
 <h1  id="head3" > 資料庫設定 </h1>
