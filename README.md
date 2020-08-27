@@ -72,7 +72,10 @@
 <div>
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp (4)	安裝JDK (Java SE Development Kit) </<h3> 
 </div>
-[Online]https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html 
+<div> 
+   <strong font-size:9px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 網址取得安裝檔，版本為1.8.0_162以上--> https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html   </strong> 
+</div>
+
 
    
 
