@@ -10,9 +10,9 @@
 
 ### 建置前需要建置React Native 與 Expo的相關環境設定
 
-1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為    
+1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為   ##### **MyWork/.expo 與 MyWork/.expo-shared。**
 
-##### **MyWork/.expo 與 MyWork/.expo-shared。**
+
 
 2.在MyWork文件中開啟cmd，並輸入```npm install``` --> 此時文件內會生成node_modules
 
