@@ -9,7 +9,7 @@
 
 # 環境建置
 <div>
-   <h3 styles={font-weight:bold;}>       (1)安裝NodeJS</<h3> 
+   <h3 styles={font-weight:bold;}>&nbsp(1)安裝NodeJS</<h3> 
 </div> 
 <strong font-size:13px;>本機-->右鍵內容-->進階設定-->環境變數-->系統變數(path)-->新增路徑(font-weight:bold;)</strong>
 
