@@ -88,7 +88,9 @@
 <div>
 </div> 
 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp3.選擇安裝位置 輸入
+
 **`npm install`**
+
 </strong>
 <div>
    
