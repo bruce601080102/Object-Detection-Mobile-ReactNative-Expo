@@ -19,23 +19,29 @@
 3.需要開啟Xampp資料庫並設定欄位，環境設定連結: <span id="head3">資料庫設定</span>  [超链文字](#head3) 
 
 在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
 在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
 在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
 在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
 在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
 在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
 在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
 在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
 在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
 在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
 在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
 在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
-在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
-在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
-在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
-在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
-在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
-在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
+
 
 
 <h1  id="head3" > 資料庫設定 </h1>
