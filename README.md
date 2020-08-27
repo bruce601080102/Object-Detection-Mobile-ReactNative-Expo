@@ -10,7 +10,7 @@
 
 ### 建置前需要建置React Native 與 Expo的相關環境設定
 
-1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為   ##### **MyWork/.expo 與 MyWork/.expo-shared。**
+1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為  **MyWork/.expo 與 MyWork/.expo-shared。**
 
 
 
