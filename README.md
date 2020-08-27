@@ -129,7 +129,7 @@
 </div>
 
 <div>
-   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(7-2)EXPO安裝</<h3> 
+   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(7-2)EXPO連線手機模擬器</<h3> 
 </div>
 <div> 
 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong>
