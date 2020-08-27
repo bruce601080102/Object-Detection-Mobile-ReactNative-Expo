@@ -48,8 +48,13 @@
 </div> 
    
 
-*        [x] GFM task list 1
+<div align="center"> 
+   
+- [x] GFM task list 1
 
+</div> 
+
+- [x] GFM task list 2
 
 
 
