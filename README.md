@@ -68,5 +68,5 @@
 
 
 
-<h1  id="head3" > 資料庫設定 </h1>
-<span id="head3"></span>
+<span id="head3">  <h1> 資料庫設定 </h1> </span>
+
