@@ -110,7 +110,7 @@
    
    
 <div>
-   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(7)React Native連結手機模擬器</<h3> 
+   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(7-1)React Native連結手機模擬器</<h3> 
 </div>
 <div> 
 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong>
@@ -122,14 +122,38 @@
 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 3.輸入cd 您專案資料夾的名稱。</strong>
 </div>
 <div> 
-<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 4.輸入react-native run-android來開啟模擬器內的React Native專案</strong>
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 4.cmd輸入react-native run-android來開啟模擬器內的React Native專案</strong>
 </div>
 <div> 
 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 5.等待模擬器畫面出現Welcome to React Native!，代表整體建置成功</strong>
 </div>
 
 <div>
-   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(8)EXPO安裝</<h3> 
+   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(7-2)EXPO安裝</<h3> 
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong>
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 2.輸入npm install expo-cli –global</strong>
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 4.輸入expo init XXX(專案資料夾名稱) 。</strong>
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 5.輸入cd 您專案資料夾的名稱</strong>
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 6.開啟Android Studio</strong>
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 7.開啟AVD Manager</strong>
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 8.cmd輸入expo start</strong>
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 9.EXPO網頁控制介面點選Run on Android device/emulator</strong>
 </div>
    
 
