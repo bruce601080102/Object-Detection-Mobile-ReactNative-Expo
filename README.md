@@ -9,7 +9,7 @@
 
 # 環境建置
 <div align="center">
-<h3 styles={text-align:center}>1123</<h3> 
+<h3 styles={text-align:center,font-weight:bold;}>(1)安裝NodeJS</<h3> 
 </div> 
 
 
