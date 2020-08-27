@@ -64,13 +64,17 @@
 <div> 
    <strong font-size:9px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp (3)最底部勾選Android Support Repository(沒有此選項，則底部全勾)</strong> 
 </div>
-
-
-
-
 <div> 
    <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 6.	點選OK。</strong>  
 </div>  
+
+
+<div>
+   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp (4)	安裝JDK (Java SE Development Kit) </<h3> 
+</div>
+[Online]https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html 
+
+   
 
 
 
