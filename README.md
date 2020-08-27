@@ -51,7 +51,7 @@
 <div>   
    <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
       
--    [x] GFM task list 1   
+-    -    [x] GFM task list 1   
 
    </strong>  
 </div> 
