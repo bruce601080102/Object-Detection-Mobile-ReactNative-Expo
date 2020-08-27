@@ -186,9 +186,9 @@
 
 
 # 肆、文件說明
-<span id="head1">  <h2> 資料庫設定 </h1> </span>
+<span id="head1">  <h2>(1) 資料庫設定 </h1> </span>
 
-<span id="head2">  <h2> server.js 介紹 </h1> </span>
+<span id="head2">  <h2>(2) server.js 介紹 </h1> </span>
 
 
 
