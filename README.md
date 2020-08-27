@@ -71,6 +71,7 @@
 
 <div>
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp (4)	安裝JDK (Java SE Development Kit) </<h3> 
+   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(5)React Native安裝</<h3> 
 </div>
 <div> 
    <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 網址取得安裝檔，版本為1.8.0_162以上--> https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html   </strong> 
