@@ -8,12 +8,6 @@
 ### **這是一個使用React Native來實現遠端連線深度學習的系統，讓使用者可以只需要攜帶手機，即可在室外使用最原生的模型，享受最快且無負擔的辨識結果，本系統以連結YOLOv3為例。**
 
 # 環境建置
-<pre>
-   <h2 styles={font-weight:bold;}>  (1)安裝NodeJS</<h3> 
-</pre>
-
-
-
 <div>
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(1)安裝NodeJS</<h3> 
 </div> 
@@ -44,25 +38,13 @@
 <div> 
    <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp勾選Android 6.0 (Marshmallow)，項目如下</strong>  
 </div> 
-
 <div> 
-   <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp右下打勾Show Package Details</strong>  
+   <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp勾選Android 6.0 (Marshmallow)，項目如下</strong>  
 </div> 
 
-<div> 
-   <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp右下打勾Show Package Details</strong>  
-</div> 
+
    
 
-<div>   
-   <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
-      
--    -    [x] GFM task list 1   
-
-   </strong>  
-</div> 
-&emsp;
-- [x] GFM task list 1   
 
 
 
@@ -73,9 +55,7 @@
 
 
    
-<div align="center">
-<h3 styles={text-align:center,font-weight:bold;}>(1)安裝NodeJS</<h3> 
-</div>   
+ 
 
 
 
