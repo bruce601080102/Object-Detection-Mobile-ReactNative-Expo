@@ -181,7 +181,7 @@
 **8.在實體手機上開啟expo app，並掃描QR code，即可及時使用此功能**
 
 <div align="center">
-   <img src="https://github.com/bruce601080102/Expo_ReactNative_ObjectDection_CloudConnection/blob/master/img/137325.jpg"  width="400" height="600" " />       </div>
+   <img src="https://github.com/bruce601080102/Expo_ReactNative_ObjectDection_CloudConnection/blob/master/img/137325.jpg"  width="300" height="500" " />       </div>
 
 
 
