@@ -14,5 +14,5 @@
 
 
 
-2.在MyWork文件中開啟cmd，並輸入```npm install``` --> 此時文件內會生成node_modules
+2.在MyWork文件中開啟cmd，並輸入`npm install` --> 此時文件內會生成node_modules
 
