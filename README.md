@@ -47,8 +47,8 @@
    <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp右下打勾Show Package Details</strong>  
 </div> 
    
-          *  - [x] GFM task list 1
-- - - - - - - - - [x] GFM task list 1
+
+*   - - - - - - - - - [x] GFM task list 1
 
 
 
