@@ -48,13 +48,13 @@
 </div> 
    
 
-<div margin: 50 auto align="center" > 
-   
-- [x] GFM task list 1
-
+<div>   
+   <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+- [x] GFM task list 1   
+   </strong>  
 </div> 
 
-
+- [x] GFM task list 1   
 
 
 
