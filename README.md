@@ -12,7 +12,28 @@
 
 1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為  **MyWork/.expo 與 MyWork/.expo-shared。**
 
+2.在MyWork文件中開啟cmd，並輸入`npm install` --> 此時文件內會生成node_modules。
+
+3.需要開啟Xampp資料庫並設定欄位，環境設定連結:
+
+在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!
 
 
-2.在MyWork文件中開啟cmd，並輸入`npm install` --> 此時文件內會生成node_modules
+[TOCM]
 
+[TOC]
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+# Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+## Heading 2 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+### Heading 3 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+#### Heading 4 link [Heading link](https://github.com/pandao/editor.md "Heading link") Heading link [Heading link](https://github.com/pandao/editor.md "Heading link")
+##### Heading 5 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+###### Heading 6 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+
+#### 标题（用底线的形式）Heading (underline)
