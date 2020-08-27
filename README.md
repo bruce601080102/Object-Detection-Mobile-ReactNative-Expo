@@ -176,7 +176,11 @@
 
 **6.建置tensorflow2.x版環境，需要建置anaconda虛擬環境，並在環境中點選Open Terminal，並到Expo_ReactNative_ObjectDection_CloudConnection/MyWork/Object_Dection/中，輸入`python python_test.py`，即可連線使用YOLO模型[強化YOLO辨識能力連結](https://github.com/bruce601080102/YOLO_v3-splite)]**
 
-
+```javascript
+function test() {
+    console.log("Hello world!");
+}
+```
 
 
 
