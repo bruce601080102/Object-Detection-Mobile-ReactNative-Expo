@@ -80,19 +80,34 @@
 <div>
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(5)React Native安裝</<h3> 
 </div>
-</div> 
+<div> 
 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.本機-->右鍵內容-->進階設定-->環境變數-->4.	新增變數名稱：ANDROID_HOME-->C:\Users\XXX\AppData\Local\Android\SDK。</strong>
-<div>
-</div> 
+</div>
+<div> 
 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2.本機-->右鍵內容-->進階設定-->環境變數-->4.	新增變數名稱：JAVA_HOME-->C:\Program Files\Java\jdk1.8.0_162。</strong>
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp3.選擇安裝位置 輸入 npm install –g react-native-cli </strong>
+</div>
 <div>
-</div> 
-<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp3.選擇安裝位置 輸入
+   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(6)建置模擬器(Android Studio)</<h3> 
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.開啟Android Studio </strong>
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 2.開啟新專案(start a new Android Studio project) </strong>
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 3.Phone and Table項目選擇Android Studio6.0 (Marshmallow) </strong>
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 4.專案開啟後，開啟AVD Manager</strong>
+</div>
+<div> 
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 5.如果沒有模擬器，請選擇Create Virtual Device，然後選擇任意型號</strong>
+</div>
 
-**`&nbsp&nbsp&nbsp&nbsp&nbsp                     npm install`**
-
-</strong>
-<div>
    
 
 
