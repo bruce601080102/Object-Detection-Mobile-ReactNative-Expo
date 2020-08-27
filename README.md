@@ -20,7 +20,7 @@
 
 
 <span id="jump">跳转内容目标</span>
-
+[超链文字](#jump)
 
 
 <div align="center">
@@ -30,7 +30,9 @@
 <div align="center">
    <img src="https://github.com/bruce601080102/Expo_ReactNative_ObjectDection_CloudConnection/blob/master/img/136944.gif"  width="400" height="600" "  />
    <img src="https://github.com/bruce601080102/Expo_ReactNative_ObjectDection_CloudConnection/blob/master/img/136942.gif"  width="400" height="600" " />                         </div>
+   
 [超链文字](#jump)
+
 # jump
 
 
