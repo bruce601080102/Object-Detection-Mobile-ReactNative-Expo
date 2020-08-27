@@ -172,6 +172,10 @@
 
 **4.在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!  [server.js文件說明連結](#head2)**
 
+**5.開啟ngrok，輸入本機ip位置，並在ngrok裡輸入`ngrok htpp  http://自己的IP:3000` ，會出現對外的網址，將其放入src/screen/Detail.js 中第17行 **
+
+
+
 
 
 
@@ -181,4 +185,6 @@
 <span id="head1">  <h1> 資料庫設定 </h1> </span>
 
 <span id="head2">  <h1> server.js 介紹 </h1> </span>
+
+
 
