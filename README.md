@@ -108,7 +108,10 @@
 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 5.如果沒有模擬器，請選擇Create Virtual Device，然後選擇任意型號</strong>
 </div>
    
-   
+
+<div align="center">
+   <h2 styles={font-weight:bold;}>本專案為使用EXPO建置</<h3> 
+</div>
 <div>
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(7-1)React Native連結手機模擬器</<h3> 
 </div>
