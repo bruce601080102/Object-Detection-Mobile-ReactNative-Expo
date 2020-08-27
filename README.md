@@ -8,8 +8,8 @@
 ### **這是一個使用React Native來實現遠端連線深度學習的系統，讓使用者可以只需要攜帶手機，即可在室外使用最原生的模型，享受最快且無負擔的辨識結果，本系統以連結YOLOv3為例。**
 
 # 環境建置
-<div styles={position:absolute;left:40px;background-color:#78FF78;}>
-   <h3 styles={font-weight:bold;}>(1)安裝NodeJS</<h3> 
+<div>
+   <h3 styles={font-weight:bold;}>       (1)安裝NodeJS</<h3> 
 </div> 
 <strong font-size:13px;>本機-->右鍵內容-->進階設定-->環境變數-->系統變數(path)-->新增路徑(font-weight:bold;)</strong>
 
