@@ -261,7 +261,6 @@
     </tr>
 </table>
 
---> [強化YOLO辨識能力連結](https://github.com/bruce601080102/YOLO_v3-splite)
 <br>
 <br>
 <table border="1">
@@ -273,6 +272,7 @@
         </td>
     </tr>
 </table>
+<br>
 <div align="center">
    <img src="https://github.com/bruce601080102/Expo_ReactNative_ObjectDection_CloudConnection/blob/master/img/137325.jpg"  width="300" height="500" " />       
 </div> 
