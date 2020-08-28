@@ -177,8 +177,9 @@
 | --------   |
 |  [server.js文件說明連結](#head2)      |
 
-|    **5.開啟ngrok，輸入本機ip位置，並在ngrok裡輸入`ngrok htpp  http://自己的IP:3000`，會出現對外的網|
-|址，將其放入src/screen/Detail.js 中第17行**  | 
+|    **5.開啟ngrok，輸入本機ip位置，並在ngrok裡輸入`ngrok htpp  http://自己的IP:3000`，會出現對外的網**  |
+| --------   |
+| **址，將其放入src/screen/Detail.js 中第17行**  | 
 | --------   |
 |  [[ngrok連結說明參見股票機器人](https://github.com/bruce601080102/Line_Web_Stock)]    |
 
