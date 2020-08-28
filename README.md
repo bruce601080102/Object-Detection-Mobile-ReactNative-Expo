@@ -169,7 +169,8 @@
         <td>
             <div>
                
-**1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為*MyWork/.expo 與 MyWork/.expo-shared***
+             **1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為*MyWork/.expo 與 MyWork/.expo-shared***
+               
            </div>
         </td>
     </tr>
