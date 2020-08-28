@@ -190,13 +190,13 @@
     <tr>
         <td>
             <div>
-            <b> 3.需要開啟Xampp資料庫並設定欄位 </b>
+            <b> 3.需要開啟Xampp資料庫並設定欄位。 </b>
            </div>
         </td>
     </tr>
 </table>
 
--->環境設定連結:     [請點我](#head1)
+--> 環境設定連結:     [請點我](#head1)
 <br>
 <br>
 <table border="1">
@@ -209,20 +209,33 @@
     </tr>
 </table>
 
--->[server.js文件說明連結](#head2) 
+--> [server.js文件說明連結](#head2) 
 <br>
 <br>
 <table border="1">
     <tr>
         <td>
             <div>
-            <b> 5.開啟ngrok，輸入本機ip位置，並在ngrok裡輸入`ngrok htpp  http://自己的IP:3000`，會出現對外的網址，將其放入src/screen/Detail.js 中第17行 </b>
+            <b> 5.開啟ngrok，輸入本機ip位置，並在ngrok裡輸入`ngrok htpp  http://自己的IP:3000`，會出現對外的網址，將其放入src/screen/Detail.js 中第17行。 </b>
            </div>
         </td>
     </tr>
 </table>
 
--->[[ngrok連結說明參見股票機器人](https://github.com/bruce601080102/Line_Web_Stock)] 
+--> [ngrok連結說明參見股票機器人(https://github.com/bruce601080102/Line_Web_Stock)] 
+<br>
+<br>
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b> 6.請至YOLO官網點選YOLOv3-416中weights的按鈕，並將權重檔放在Expo_ReactNative_ObjectDection_CloudConnection/MyWork/Object_Dection/yolov3/checkpoints/中的資料夾。 </b>
+           </div>
+        </td>
+    </tr>
+</table>
+
+--> [[[權重檔連結下載](https://pjreddie.com/darknet/yolo/)] 
 
 
 
