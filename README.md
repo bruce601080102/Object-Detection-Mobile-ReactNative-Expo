@@ -169,20 +169,22 @@
 　<td>
     
 **1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為*MyWork/.expo 與 MyWork/.expo-shared***
+
    </td>
 　</tr>
 </table>
 
-<table border="2">
+<table border="1">
 　<tr>
 　<td>
     
 **2.在MyWork文件中開啟cmd，並輸入 **`npm install`** --> 此時文件內會生成node_modules。**
+
    </td>
 　</tr>
 </table>
 
-<table border="3">
+<table border="1">
 　<tr>
 　<td>
     
