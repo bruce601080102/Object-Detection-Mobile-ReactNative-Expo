@@ -167,7 +167,7 @@
 
 
 
-> **1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為  *MyWork/.expo 與 MyWork/.expo-shared*** 
+>  
 
 > **2.在MyWork文件中開啟cmd，並輸入 **`npm install`** --> 此時文件內會生成node_modules。** 
 
@@ -179,6 +179,10 @@
 > **5.開啟ngrok，輸入本機ip位置，並在ngrok裡輸入`ngrok htpp  http://自己的IP:3000`，會出現對外的網址，將其放入src/screen/Detail.js 中第17行**[[ngrok連結說明參見股票機器人](https://github.com/bruce601080102/Line_Web_Stock)] 
 
 
+| 1 | 
+| ------------- | 
+| **載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為** | 
+| ***MyWork/.expo 與 MyWork/.expo-shared***  | 
 
 
 
