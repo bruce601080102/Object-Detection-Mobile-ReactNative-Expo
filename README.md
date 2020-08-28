@@ -181,7 +181,9 @@
 | --------   |
 |  [[ngrok連結說明參見股票機器人](https://github.com/bruce601080102/Line_Web_Stock)]    |
 
-|    **6.請至YOLO官網點選YOLOv3-416中weights的按鈕，並將權重檔放在Expo_ReactNative_ObjectDection_CloudConnection/MyWork/Object_Dection/yolov3/checkpoints/中的資料夾**  | 
+|    **6.請至YOLO官網點選YOLOv3-416中weights的按鈕，並將權重檔放在Expo_ReactNative_ObjectDection_CloudConnection**  | 
+| --------   |
+|    **/MyWork/Object_Dection/yolov3/checkpoints/中的資料夾**  | 
 | --------   |
 | [[權重檔連結下載](https://pjreddie.com/darknet/yolo/)]   |
 
