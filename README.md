@@ -160,7 +160,13 @@
 </div>
    
 
-
+<table>
+    <tr>
+        <td>
+            <div>表格垂直置中</div>
+        </td>
+    </tr>
+</table>
 
 # 參、建置流程
 
