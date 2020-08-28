@@ -222,7 +222,7 @@
     </tr>
 </table>
 
---> [ngrok連結說明參見股票機器人(https://github.com/bruce601080102/Line_Web_Stock)] 
+--> [ngrok連結說明參見股票機器人](https://github.com/bruce601080102/Line_Web_Stock)
 <br>
 <br>
 <table border="1">
@@ -235,7 +235,7 @@
     </tr>
 </table>
 
---> [[[權重檔連結下載](https://pjreddie.com/darknet/yolo/)] 
+--> [權重檔連結下載](https://pjreddie.com/darknet/yolo/) 
 
 
 
