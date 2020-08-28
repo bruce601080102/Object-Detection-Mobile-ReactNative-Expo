@@ -164,7 +164,7 @@
 
 # 參、建置流程
 
-<table border="1">
+<table width="12" border="1">
 　<tr>
 　<td>
     
