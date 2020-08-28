@@ -221,7 +221,7 @@
         <td>
             <div>
             <b> 5.</b><br>
-            <b>開啟ngrok，輸入本機ip位置，並在ngrok裡輸入&emsp ngrok htpp http://自己的IP:3000 &emsp ， 會出現對外的網址，將其放入src / screen / Detail.js 中第17行。 </b>
+            <b>開啟ngrok，輸入本機ip位置，並在ngrok裡輸入 ngrok htpp http://自己的IP:3000  ， 會出現對外的網址，將其放入src / screen / Detail.js 中第17行。 </b>
            </div>
         </td>
     </tr>
