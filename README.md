@@ -163,8 +163,8 @@
 
 
 # 參、建置流程
-
-**1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為  *MyWork/.expo 與 MyWork/.expo-shared***
+    
+| **1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為  *MyWork/.expo 與 MyWork/.expo-shared***|
 
 **2.在MyWork文件中開啟cmd，並輸入 **`npm install`** --> 此時文件內會生成node_modules。**
 
@@ -195,6 +195,5 @@
 <span id="head1">  <h2>(1) 資料庫設定 </h1> </span>
 
 <span id="head2">  <h2>(2) server.js 介紹 </h1> </span>
-
 
 
