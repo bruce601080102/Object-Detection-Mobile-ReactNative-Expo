@@ -164,7 +164,7 @@
 
 # 參、建置流程
 
-<table width="12" border="1">
+<table display:table-cell; border="1">
 　<tr>
 　<td>
     
