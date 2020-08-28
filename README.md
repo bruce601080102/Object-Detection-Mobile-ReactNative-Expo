@@ -170,9 +170,11 @@
 
 **3.需要開啟Xampp資料庫並設定欄位，環境設定連結:[請點我](#head1)** 
 
-**4.在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!  [server.js文件說明連結](#head2)**
+**4.在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection! 
+[server.js文件說明連結](#head2)**
 
-**5.開啟ngrok，輸入本機ip位置，並在ngrok[[ngrok連結說明參見股票機器人](https://github.com/bruce601080102/Line_Web_Stock)] 裡輸入`ngrok htpp  http://自己的IP:3000`，會出現對外的網址，將其放入src/screen/Detail.js 中第17行**
+**5.開啟ngrok，輸入本機ip位置，並在ngrok裡輸入`ngrok htpp  http://自己的IP:3000`，會出現對外的網址，將其放入src/screen/Detail.js 中第17行**
+[[ngrok連結說明參見股票機器人](https://github.com/bruce601080102/Line_Web_Stock)] 
 
 **6.請至YOLO官網點選YOLOv3-416中weights的按鈕[[權重檔連結下載](https://pjreddie.com/darknet/yolo/)] ，並將權重檔放在Expo_ReactNative_ObjectDection_CloudConnection/MyWork/Object_Dection/yolov3/checkpoints/中的資料夾**
 
