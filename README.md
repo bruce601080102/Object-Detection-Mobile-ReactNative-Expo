@@ -181,8 +181,8 @@
 
 | 1 | 
 | ------------- | 
-| **載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為** | 
-| ***MyWork/.expo 與 MyWork/.expo-shared***  | 
+| **載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為*MyWork/.expo 與 MyWork/.expo-shared*** | 
+ 
 
 
 
