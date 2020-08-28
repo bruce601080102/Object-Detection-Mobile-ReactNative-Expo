@@ -173,7 +173,8 @@
         </td>
     </tr>
 </table>
-
+<br>
+<br>
 <table border="1">
     <tr>
         <td>
@@ -183,33 +184,25 @@
         </td>
     </tr>
 </table>
-
+<br>
+<br>
 <table border="1">
     <tr>
         <td>
             <div>
-            <b> 需要開啟Xampp資料庫並設定欄位 </b>
+            <b> 3.需要開啟Xampp資料庫並設定欄位 </b>
            </div>
         </td>
     </tr>
 </table>
 
-環境設定連結:     [請點我](#head1)
+-->環境設定連結:     [請點我](#head1)
 
 
 
 
 
-<table border="1">
-　<tr>
-　<td>
-    
-**3.需要開啟Xampp資料庫並設定欄位，**  
-    
-環境設定連結:[請點我](#head1)
-   </td>
-　</tr>
-</table>
+
 
 
 | 1 | 
