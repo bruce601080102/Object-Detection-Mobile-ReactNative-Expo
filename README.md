@@ -4,10 +4,10 @@
   
 
 
-# 壹、介紹
+# I、介紹
 ### **這是一個使用React Native來實現遠端連線深度學習的系統，讓使用者可以只需要攜帶手機，即可在室外使用最原生的模型，享受最快且無負擔的辨識結果，本系統以連結YOLOv3為例。**
 
-# 貳、環境建置
+# II、環境建置
 <div>
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(1)安裝NodeJS</<h3> 
 </div> 
@@ -162,7 +162,7 @@
 
 
 
-# 參、建置流程
+# III、建置流程
 
 <table border="1">
     <tr>
@@ -289,7 +289,7 @@
 
 
 
-# 肆、文件說明
+# IV、文件說明
 <span id="head1">  <h2>(1) 資料庫設定 </h1> </span>
 
 <span id="head2">  <h2>(2) server.js 介紹 </h1> </span>
