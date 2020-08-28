@@ -160,15 +160,20 @@
 </div>
    
 
+
+
+# 參、建置流程
+
 <table>
     <tr>
         <td>
-            <div>表格垂直置中</div>
+            <div>
+               
+**1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為*MyWork/.expo 與 MyWork/.expo-shared***
+           </div>
         </td>
     </tr>
 </table>
-
-# 參、建置流程
 
 <table display:table-cell; border="1">
 　<tr>
