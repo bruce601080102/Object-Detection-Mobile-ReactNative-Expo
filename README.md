@@ -321,7 +321,7 @@
 
 
 # IV、文件說明
-<span id="head3">  <h1> 資料庫設置 </h1> </span>
+<span id="#head1">  <h1> 資料庫設置 </h1> </span>
 
 <div> 
 <strong font-size:13px;>
