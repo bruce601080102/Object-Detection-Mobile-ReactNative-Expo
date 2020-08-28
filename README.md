@@ -164,35 +164,40 @@
 
 # 參、建置流程
 
-<table>
+<table border="1">
     <tr>
         <td>
             <div>
-            <b> 1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為MyWork/.expo 與 MyWork/.expo-shared </b>
+            <b> 1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為MyWork/.expo 與 MyWork/.expo-shared。 </b>
            </div>
         </td>
     </tr>
 </table>
 
-<table display:table-cell; border="1">
-　<tr>
-　<td>
-    
-**1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為*MyWork/.expo 與 MyWork/.expo-shared***
-
-   </td>
-　</tr>
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b> 2.在MyWork文件中開啟cmd，並輸入 **`npm install`** --> 此時文件內會生成node_modules。 </b>
+           </div>
+        </td>
+    </tr>
 </table>
 
 <table border="1">
-　<tr>
-　<td>
-    
-**2.在MyWork文件中開啟cmd，並輸入 **`npm install`** --> 此時文件內會生成node_modules。**
-
-   </td>
-　</tr>
+    <tr>
+        <td>
+            <div>
+            <b> 需要開啟Xampp資料庫並設定欄位 </b>
+           </div>
+        </td>
+    </tr>
 </table>
+環境設定連結:     [請點我](#head1)
+
+
+
+
 
 <table border="1">
 　<tr>
