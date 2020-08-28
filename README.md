@@ -170,9 +170,9 @@
 
 **3.需要開啟Xampp資料庫並設定欄位，環境設定連結:[請點我](#head1)** 
 
-**4.在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection! 
+**4.在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection!** 
 
-[server.js文件說明連結](#head2)**
+[server.js文件說明連結](#head2)
 
 **5.開啟ngrok，輸入本機ip位置，並在ngrok裡輸入`ngrok htpp  http://自己的IP:3000`，會出現對外的網址，將其放入src/screen/Detail.js 中第17行**
 
