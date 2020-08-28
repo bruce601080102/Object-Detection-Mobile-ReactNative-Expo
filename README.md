@@ -164,18 +164,31 @@
 
 # 參、建置流程
 
-
-
-
- 
-
 <table border="1">
 　<tr>
 　<td>
     
-**需要開啟Xampp資料庫並設定欄位，環境設定連結:**  
+**1.載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為*MyWork/.expo 與 MyWork/.expo-shared***
+   </td>
+　</tr>
+</table>
+
+<table border="2">
+　<tr>
+　<td>
     
-[請點我](#head1)
+**2.在MyWork文件中開啟cmd，並輸入 **`npm install`** --> 此時文件內會生成node_modules。**
+   </td>
+　</tr>
+</table>
+
+<table border="3">
+　<tr>
+　<td>
+    
+**3.需要開啟Xampp資料庫並設定欄位，**  
+    
+環境設定連結:[請點我](#head1)
    </td>
 　</tr>
 </table>
