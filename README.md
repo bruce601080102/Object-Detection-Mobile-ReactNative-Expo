@@ -168,8 +168,7 @@
     <tr>
         <td>
             <div>
-            <b> 1.</b>
-               
+            <b> 1.</b><br>
             <b>載入本文件，並將MyWork/expo 與 MyWork/expo-shared 改為MyWork/.expo 與 MyWork/.expo-shared。 </b>
            </div>
         </td>
