@@ -180,8 +180,7 @@
     <tr>
         <td>
             <div>
-            <b> 2.</b>
-               
+            <b> 2.</b><br>
             <b>在MyWork文件中開啟cmd，並輸入 npm install  --> 此時文件內會生成node_modules。 </b>
            </div>
         </td>
@@ -193,8 +192,7 @@
     <tr>
         <td>
             <div>
-            <b> 3.</b>
-               
+            <b> 3.</b><br>
              <b>需要開啟Xampp資料庫並設定欄位。 </b>
            </div>
         </td>
@@ -208,8 +206,7 @@
     <tr>
         <td>
             <div>
-            <b> 4.</b>
-               
+            <b> 4.</b><br>
             <b>在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection! </b>
            </div>
         </td>
@@ -223,8 +220,7 @@
     <tr>
         <td>
             <div>
-            <b> 5.</b>
-               
+            <b> 5.</b><br>
             <b>開啟ngrok，輸入本機ip位置，並在ngrok裡輸入`ngrok htpp  http://自己的IP:3000`，會出現對外的網址，將其放入src / screen / Detail.js 中第17行。 </b>
            </div>
         </td>
@@ -238,8 +234,7 @@
     <tr>
         <td>
             <div>
-            <b> 6.</b>
-               
+            <b> 6.</b><br>
             <b>請至YOLO官網點選YOLOv3-416中weights的按鈕，並將權重檔放在Expo _ ReactNative _ ObjectDection _ CloudConnection / MyWork / Object_Dection / yolov3 / checkpoints / 中的資料夾。 </b>
            </div>
         </td>
@@ -253,8 +248,7 @@
     <tr>
         <td>
             <div>
-            <b> 7.</b>
-               
+            <b> 7.</b><br>
             <b>建置tensorflow2.x版環境，需要建置anaconda虛擬環境，並在環境中點選Open Terminal，並到Expo _ ReactNative _ ObjectDection _ CloudConnection / MyWork / Object_Dection / 中，輸入`python python_test.py`，即可連線使用YOLO模型 </b>
            </div>
         </td>
@@ -268,8 +262,7 @@
     <tr>
         <td>
             <div>
-            <b> 8.</b>
-               
+            <b> 8.</b><br> 
             <b>在http://localhost:19002/ 中會出現expo頁面，並將會看見Starting Metro Bundler.字眼，表示建置已成功，點選Connection中Tunnel，將會出現一張QR code。 </b>
            </div>
         </td>
@@ -282,8 +275,7 @@
     <tr>
         <td>
             <div>
-            <b> 9.</b>
-               
+            <b> 9.</b><br> 
              <b>在實體手機上開啟expo app，並掃描QR code，即可及時使用此功能。 </b>
            </div>
         </td>
