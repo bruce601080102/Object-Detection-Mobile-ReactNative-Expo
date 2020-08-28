@@ -207,7 +207,7 @@
         <td>
             <div>
             <b> 4.</b><br>
-            <b>在MyWork文件中開啟cmd，並輸入`node server.js` -->此時會出現 Open the database connection! </b>
+            <b>在MyWork文件中開啟cmd，並輸入 node server.js -->此時會出現 Open the database connection! </b>
            </div>
         </td>
     </tr>
@@ -221,7 +221,7 @@
         <td>
             <div>
             <b> 5.</b><br>
-            <b>開啟ngrok，輸入本機ip位置，並在ngrok裡輸入`ngrok htpp  http://自己的IP:3000`，會出現對外的網址，將其放入src / screen / Detail.js 中第17行。 </b>
+            <b>開啟ngrok，輸入本機ip位置，並在ngrok裡輸入&emsp ngrok htpp http://自己的IP:3000 &emsp ， 會出現對外的網址，將其放入src / screen / Detail.js 中第17行。 </b>
            </div>
         </td>
     </tr>
