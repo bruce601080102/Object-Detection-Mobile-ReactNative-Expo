@@ -187,9 +187,9 @@
 |    **_CloudConnection/MyWork/Object_Dection/yolov3/checkpoints/中的資料夾**  | 
 | [[權重檔連結下載](https://pjreddie.com/darknet/yolo/)]   |
 
-|    **7.建置tensorflow2.x版環境，需要建置anaconda虛擬環境，並在環境中點選Open Terminal，並到Expo_React**  | 
+|    **7.建置tensorflow2.x版環境，需要建置anaconda虛擬環境，並在環境中點選Open Terminal，並到Expo_ReactN**  | 
 | --------   |
-| **Native_ObjectDection_CloudConnection/MyWork/Object_Dection/中，輸入`python python_test.py`，即可連線使用YOLO模型**   |
+| **ative_ObjectDection_CloudConnection/MyWork/Object_Dection/中，輸入`python python_test.py`，即可連線使用YOLO模型**   |
 |[強化YOLO辨識能力連結](https://github.com/bruce601080102/YOLO_v3-splite)]  |
 
 |  **8.在http://localhost:19002/ 中會出現expo頁面，並將會看見Starting Metro Bundler.字眼，表示建置已成功，**  | 
