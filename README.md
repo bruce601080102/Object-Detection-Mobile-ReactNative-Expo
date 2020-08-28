@@ -189,7 +189,7 @@
 
 |    **7.建置tensorflow2.x版環境，需要建置anaconda虛擬環境，並在環境中點選Open Terminal，並到Expo_ReactNative_**  | 
 | --------   |
-| ** ObjectDection_CloudConnection/MyWork/Object_Dection/中，輸入`python python_test.py`，即可連線使用YOLO模型**   |
+| **ObjectDection_CloudConnection/MyWork/Object_Dection/中，輸入`python python_test.py`，即可連線使用YOLO模型**   |
 |[強化YOLO辨識能力連結](https://github.com/bruce601080102/YOLO_v3-splite)]  |
 
 |  **8.在http://localhost:19002/ 中會出現expo頁面，並將會看見Starting Metro Bundler.字眼，表示建置已成功，點選Connection中Tunnel，將會出現一張QR code。**  | 
