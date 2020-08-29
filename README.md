@@ -68,10 +68,7 @@
 <div>
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(3)安裝Android Studio</<h3> 
 </div>
-   
-<div> 
-   <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.	選擇安裝磁碟位置</strong>  
-</div>   
+      
 <div>    
 <table border="1">
     <tr>
@@ -91,6 +88,31 @@
             <div>
                <b>2.</b><br>
                <strong font-size:13px;>右下角點選Configure</strong>   
+           </div>
+        </td>
+    </tr>
+</table>
+</div> 
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>3.</b><br>
+               <strong font-size:13px;>開啟SDK Manager</strong
+           </div>
+        </td>
+    </tr>
+</table>
+</div> 
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>4.</b><br>
+               <strong font-size:13px;>選擇SDK Platforms</strong><br>
+               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp右下打勾Show Package Details</strong>  
            </div>
         </td>
     </tr>
