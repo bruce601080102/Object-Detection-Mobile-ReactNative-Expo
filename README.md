@@ -723,8 +723,13 @@ https://www.apachefriends.org/zh_tw/index.html
             <div>
             <b>連線至MYSQL</b>
            </div>
-        </td>   
-       <h1 styles={font-size:50;}>&darr;</h1>
+        </td>  
+         <td>
+            <div>
+           <h1 styles={font-size:50;}>&darr;</h1>
+           </div>
+        </td>        
+       
 </table> 
 
 
