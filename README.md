@@ -718,8 +718,8 @@ https://www.apachefriends.org/zh_tw/index.html
    <h3 styles={font-weight:bold;}>python_test.py</<h3> 
 </div>
 <table >
-    <tr border="1">
-        <td>
+    <tr>
+        <td  border="1">
             <div>
             <b>連線至MYSQL</b>
            </div>
