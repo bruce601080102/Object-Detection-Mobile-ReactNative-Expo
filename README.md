@@ -62,11 +62,11 @@
    
 
 <div>
-   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(2)安裝python2.7</<h3> 
+   <h3 styles={font-weight:bold;}>(2)安裝python2.7</<h3> 
 </div> 
    
 <div>
-   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(3)安裝Android Studio</<h3> 
+   <h3 styles={font-weight:bold;}>(3)安裝Android Studio</<h3> 
 </div>
       
 <div>    
@@ -176,6 +176,35 @@
 </table>
 </div> 
 
+<div> 
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>9.</b><br>
+                <strong font-size:10px;>點選OK</strong>
+           </div>
+        </td>
+    </tr>
+</table>
+</div> 
+
+<div>
+   <h3 styles={font-weight:bold;}>(4)安裝JDK (Java SE Development Kit)</<h3> 
+</div> 
+
+<div> 
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>9.</b><br>
+                 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 網址取得安裝檔，版本為1.8.0_162以上--> https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html   </strong> 
+           </div>
+        </td>
+    </tr>
+</table>
+</div> 
 
 
 
