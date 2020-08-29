@@ -177,7 +177,7 @@
         <td>
             <div>
             <b>1.</b><br>
-            <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong>
+            <strong font-size:13px;> 1.cmd到需您需要製作專案的資料位置</strong>
            </div>
         </td>
     </tr>
@@ -189,7 +189,7 @@
         <td>
             <div>
             <b>2.</b><br>
-            <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong>
+            <strong font-size:13px;> 1.cmd到需您需要製作專案的資料位置</strong>
            </div>
         </td>
     </tr>
@@ -201,7 +201,7 @@
         <td>
             <div>
             <b>3.</b><br>
-            <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong>
+            <strong font-size:13px;> 1.cmd到需您需要製作專案的資料位置</strong>
            </div>
         </td>
     </tr>
