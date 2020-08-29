@@ -707,4 +707,29 @@ https://www.apachefriends.org/zh_tw/index.html
 </table>
 </div>
 
+<span id="head3">  <h2> Python </h2> </span>
+<div> 
+<strong font-size:13px;>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 本系統不採用官方釋出的TensorFlow.js，原因在於調整上不自由，且出來的結果太過陽春，而將模型塞入手機中，必須使用Tiny版本，辨識的結果勢必不如複雜的模型結果，而使用資料庫作為連線橋梁，即可以在手機上顯示電腦的結果。
+</strong>
+</div> 
 
+<div>
+   <h3 styles={font-weight:bold;}>python_test.py</<h3> 
+</div>
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b>連線至MYSQL</b>
+           </div>
+        </td>
+    </tr>
+           <td>
+            <div>
+            <b>處理資料庫儲存時間差</b>
+           </div>
+        </td>
+    </tr>
+   
+</table> 
