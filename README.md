@@ -252,15 +252,78 @@
 </table>
 </div>
 
+<div>
+   <h3 styles={font-weight:bold;}>(6)建置模擬器(Android Studio)</<h3> 
+</div> 
+<div> 
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>1.</b><br>
+                 <strong font-size:13px;> 開啟Android Studio</strong> 
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+   
+   
+<div> 
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>2.</b><br>
+                 <strong font-size:13px;> 開啟新專案(start a new Android Studio project)  </strong> 
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
 
+<div> 
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>3.</b><br>
+                 <strong font-size:13px;> Phone and Table項目選擇Android Studio6.0 (Marshmallow)  </strong> 
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
 
+<div> 
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>4.</b><br>
+                 <strong font-size:13px;> 專案開啟後，開啟AVD Manager </strong> 
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
 
-               
+<div> 
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>5.</b><br>
+                 <strong font-size:13px;> 如果沒有模擬器，請選擇Create Virtual Device，然後選擇任意型號</strong> 
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+        
               
                
    
-   
-
 
 <div> 
    <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2.	右下角點選Configure</strong>  
