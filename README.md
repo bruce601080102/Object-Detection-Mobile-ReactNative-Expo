@@ -727,7 +727,7 @@ https://www.apachefriends.org/zh_tw/index.html
     </tr> 
     <tr>
          <td>
-            <div>
+            <div align="center">
            <h1 styles={font-size:50;}>&darr;</h1>
            </div>
         </td>        
