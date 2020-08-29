@@ -207,6 +207,22 @@
 
 --> [JDK安裝檔](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) 
 
+<div>
+   <h3 styles={font-weight:bold;}>(5)React Native安裝</<h3> 
+</div> 
+   
+<div> 
+<table border="1">
+    <tr>
+        <td>
+            <div>
+                 <strong font-size:13px;> 1.本機-->右鍵內容-->進階設定-->環境變數--> 新增變數名稱：ANDROID_HOME-->C:\Users\XXX\AppData\Local\Android\SDK </strong> 
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+
 
 
 
