@@ -717,20 +717,81 @@ https://www.apachefriends.org/zh_tw/index.html
 <div>
    <h3 styles={font-weight:bold;}>python_test.py</<h3> 
 </div>
+   
+<div>    
 <table border="1">
     <tr>
         <td>
             <div>
-            <b>連線至MYSQL</b>
+            <b>1.</b><br>
+            <b>連線至本機端MYSQL</b>
            </div>
-           <div>
-           <h1 styles={font-size:50;}>&darr;</h1>
-           </div>
-        </td>   
-       
+        </td>
     </tr>
-   
-</table> 
+</table>
+</div>
+
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b>2.</b><br>
+            <b>解決了資料庫時間差的錯誤</b>
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b>3.</b><br>
+            <b>將base64轉為圖片/b>
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b>4.</b><br>
+            <b>放進模型辨識成果/b>
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b>5.</b><br>
+            <b>產製出一個透明背景的圖片將結果劃入透明圖片中/b>
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b>6.</b><br>
+            <b>將繪製完的透明圖片轉化為base64，並上傳資料庫/b>
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
 
 
 
