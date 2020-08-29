@@ -433,8 +433,6 @@
 
 <br>
 <br>
-<br>
-<br>
 <table border="1">
     <tr>
         <td>
