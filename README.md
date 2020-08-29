@@ -717,8 +717,8 @@ https://www.apachefriends.org/zh_tw/index.html
 <div>
    <h3 styles={font-weight:bold;}>python_test.py</<h3> 
 </div>
-<table border="1">
-    <tr>
+<table >
+    <tr border="1">
         <td>
             <div>
             <b>連線至MYSQL</b>
