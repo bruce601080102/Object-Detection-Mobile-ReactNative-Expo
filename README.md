@@ -185,11 +185,14 @@
     <tr>
         <td>
             <div>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong><br>
+               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong><br><br>
                <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 2.輸入react-native init XXX(專案資料夾名稱)來創建專案</strong><br>
+               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 名稱)來創建專案</strong><br><br>
                <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 3.輸入cd 您專案資料夾的名稱。</strong><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 4.cmd輸入react-native run-android來開啟模擬器內的React Native專案</strong><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 5.等待模擬器畫面出現Welcome to React Native!，代表整體建置成功</strong>
+               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 4.cmd輸入react-native run-android來開</strong><br>
+               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 啟模擬器內的React Native專案</strong><br><br>
+               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 5.等待模擬器畫面出現Welcome to React </strong><br>
+               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  Native!，代表整體建置成功</strong>
            </div>
         </td>
         <td>
