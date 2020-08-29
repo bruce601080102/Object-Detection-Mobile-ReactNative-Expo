@@ -147,7 +147,6 @@
 <div>
    <h2 styles={font-weight:bold;}>本專案為使用EXPO建置</<h3> 
 </div>
-<br>
 <div>
    <h3 styles={font-weight:bold;}> React Native連結手機模擬器</<h3> 
 </div> 
