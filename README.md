@@ -123,21 +123,67 @@
     </tr>
 </table>
 </div> 
- 
+   
+<div>  
 <table border="1">
     <tr>
         <td>
             <div>
                <b>5.</b><br>
-               <strong font-size:13px;>選擇SDK Tools</strong><br>
-               <strong font-size:13px;>右下打勾Show Package Details</strong><br>  
-               <strong font-size:13px;>在Android SDK Build Tools中勾選23.0.1版本</strong><br>
-               <strong font-size:10px;>最底部勾選Android Support Repository(沒有此選項，則底部全勾)</strong><br>  
+               <strong font-size:13px;>選擇SDK Tools</strong>
            </div>
         </td>
     </tr>
 </table>
 </div> 
+   
+<div>  
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>6.</b><br>
+               <strong font-size:13px;>右下打勾Show Package Details</strong>
+           </div>
+        </td>
+    </tr>
+</table>
+</div> 
+
+<div> 
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>7.</b><br>
+                <strong font-size:13px;>在Android SDK Build Tools中勾選23.0.1版本</strong>
+           </div>
+        </td>
+    </tr>
+</table>
+</div> 
+
+<div> 
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>8.</b><br>
+                <strong font-size:10px;>最底部勾選Android Support Repository(沒有此選項，則底部全勾)</strong>
+           </div>
+        </td>
+    </tr>
+</table>
+</div> 
+
+
+
+
+
+
+               
+              
+               
    
    
 
