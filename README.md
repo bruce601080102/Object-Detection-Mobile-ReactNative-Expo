@@ -114,15 +114,22 @@
                <strong font-size:13px;>選擇SDK Platforms</strong><br>
                <strong font-size:13px;>右下打勾Show Package Details</strong><br>  
                <strong font-size:13px;> 勾選Android 6.0 (Marshmallow)，項目如下:</strong><br><br>
-               <strong font-size:10px;>● Google APIs</strong><br>  
-               <strong font-size:10px;>● Android SDK Platform 23</strong><br>  
-               <strong font-size:10px;>● Intel x86 Atom System Image</strong><br>  
-               <strong font-size:10px;>● Google APIs Intel x86 Atom_64 System Image</strong>
+               <strong font-size:10px;>●&nbsp Google APIs</strong><br>  
+               <strong font-size:10px;>●&nbsp Android SDK Platform 23</strong><br>  
+               <strong font-size:10px;>●&nbsp Intel x86 Atom System Image</strong><br>  
+               <strong font-size:10px;>●&nbsp Google APIs Intel x86 Atom_64 System Image</strong>
            </div>
         </td>
     </tr>
 </table>
 </div> 
+ 
+<div> 
+   <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 5.	選擇SDK Tools</strong>  
+</div>   
+   
+   
+   
 
 
 <div> 
