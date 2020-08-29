@@ -750,7 +750,7 @@ https://www.apachefriends.org/zh_tw/index.html
         <td>
             <div>
             <b>3.</b><br>
-            <b>將base64轉為圖片/b>
+            <b>將base64轉為圖片</b>
            </div>
         </td>
     </tr>
@@ -762,7 +762,7 @@ https://www.apachefriends.org/zh_tw/index.html
         <td>
             <div>
             <b>4.</b><br>
-            <b>放進模型辨識成果/b>
+            <b>放進模型辨識成果</b>
            </div>
         </td>
     </tr>
@@ -774,7 +774,7 @@ https://www.apachefriends.org/zh_tw/index.html
         <td>
             <div>
             <b>5.</b><br>
-            <b>產製出一個透明背景的圖片將結果劃入透明圖片中/b>
+            <b>產製出一個透明背景的圖片將結果劃入透明圖片中</b>
            </div>
         </td>
     </tr>
@@ -786,7 +786,7 @@ https://www.apachefriends.org/zh_tw/index.html
         <td>
             <div>
             <b>6.</b><br>
-            <b>將繪製完的透明圖片轉化為base64，並上傳資料庫/b>
+            <b>將繪製完的透明圖片轉化為base64，並上傳資料庫</b>
            </div>
         </td>
     </tr>
