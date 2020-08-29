@@ -77,7 +77,7 @@
     <tr>
         <td>
             <div>
-               <p>1.</p><br>
+               <b>1.</b><br>
                <strong font-size:13px;>選擇安裝磁碟位置</strong>  
            </div>
         </td>
@@ -89,7 +89,7 @@
     <tr>
         <td>
             <div>
-               <p>2.</p><br>
+               <b>2.</b><br>
                <strong font-size:13px;>右下角點選Configure</strong>   
            </div>
         </td>
