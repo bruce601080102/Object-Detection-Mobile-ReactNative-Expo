@@ -166,8 +166,13 @@
 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 5.等待模擬器畫面出現Welcome to React Native!，代表整體建置成功</strong>
 </div>
 
-
 <div>
+   
+<div>
+   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp EXPO連線手機模擬器</<h3> 
+</div>
+   
+<div align="left">
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp EXPO連線手機模擬器</<h3> 
 </div>
    
@@ -208,6 +213,7 @@
 </table>
 </div>
 
+</div>
 
 
 
