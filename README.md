@@ -172,7 +172,7 @@
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp EXPO連線手機模擬器</<h3> 
 </div>
    
-<div align="left">
+<div align="right">
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp EXPO連線手機模擬器</<h3> 
 </div>
    
