@@ -133,7 +133,6 @@
                <strong font-size:13px;>右下打勾Show Package Details</strong><br>  
                <strong font-size:13px;>在Android SDK Build Tools中勾選23.0.1版本</strong><br><br>
                <strong font-size:10px;>最底部勾選Android Support Repository(沒有此選項，則底部全勾)</strong><br>  
-
            </div>
         </td>
     </tr>
