@@ -199,7 +199,8 @@
         <td>
             <div>
                <b>9.</b><br>
-                 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 網址取得安裝檔，版本為1.8.0_162以上--> https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html   </strong> 
+                 <strong font-size:13px;>網址取得安裝檔，版本為1.8.0_162以上 </strong> <br>
+                <strong font-size:13px;>--> https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html   </strong> 
            </div>
         </td>
     </tr>
