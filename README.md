@@ -216,7 +216,7 @@
     <tr>
         <td>
             <div>
-                 <strong font-size:13px;> 1.本機-->右鍵內容-->進階設定-->環境變數-->  </strong> <>
+                 <strong font-size:13px;> 1.本機-->右鍵內容-->進階設定-->環境變數-->  </strong> <br>
                <strong font-size:13px;> 新增變數名稱：ANDROID_HOME-->C:\Users\XXX\AppData\Local\Android\SDK </strong> 
            </div>
         </td>
