@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="ZSLF0QIk-PDG2P76FrIJRBixpOO0Z8C_QvY1Ke_-nDA" />
+
 ### 作者:[bruce601080102](https://github.com/bruce601080102) / [nicharleys](https://github.com/nicharleys) 共同建置 
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/Resact_YOLO_1" alt="Hits" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/Resact_YOLO_1" style="max-width:100%;"></a> 
