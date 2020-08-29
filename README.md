@@ -724,20 +724,9 @@ https://www.apachefriends.org/zh_tw/index.html
             <b>連線至MYSQL</b>
            </div>
         </td>     
-    </tr> 
+    </tr>
+   <h1 styles={font-size:50;}>&darr;</h1>
 </table> 
-<table border="0"> 
-    <tr>
-         <td>
-            <div align="center">
-           <h1 styles={font-size:50;}>&darr;</h1>
-           </div>
-        </td>        
-    </tr> 
-</table> 
-   
-<table style="border-top:3px #FFD382 solid;border-bottom:3px #82FFFF solid;" cellpadding="10" border='0'>
-<tr><td>這是表格欄位</td><td>這是表格欄位</td></tr>
-</table>
+
 
 
