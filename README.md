@@ -723,13 +723,8 @@ https://www.apachefriends.org/zh_tw/index.html
             <div>
             <b>連線至MYSQL</b>
            </div>
-        </td>
-    </tr>
-           <td>
-            <div>
-            <b>處理資料庫儲存時間差</b>
-           </div>
-        </td>
-    </tr>
-   
+        </td>   
 </table> 
+
+
+<h1 styles={font-size:50;}>&darr;</h1>
