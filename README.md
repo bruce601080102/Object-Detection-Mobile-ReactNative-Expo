@@ -166,23 +166,18 @@
 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 5.等待模擬器畫面出現Welcome to React Native!，代表整體建置成功</strong>
 </div>
 
-<div>
+
    
 <div>
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp EXPO連線手機模擬器</<h3> 
-</div>
-   
-<div align="right">
-   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp EXPO連線手機模擬器</<h3> 
-</div>
-   
+</div> 
 <div>    
 <table border="1">
     <tr>
         <td>
             <div>
             <b>1.</b><br>
-            <strong font-size:13px;> 1.cmd到需您需要製作專案的資料位置</strong>
+            <strong font-size:13px;> cmd到需您需要製作專案的資料位置</strong>
            </div>
         </td>
     </tr>
@@ -194,7 +189,7 @@
         <td>
             <div>
             <b>2.</b><br>
-            <strong font-size:13px;> 1.cmd到需您需要製作專案的資料位置</strong>
+            <strong font-size:13px;> 輸入npm install expo-cli –global</strong>
            </div>
         </td>
     </tr>
@@ -206,14 +201,73 @@
         <td>
             <div>
             <b>3.</b><br>
-            <strong font-size:13px;> 1.cmd到需您需要製作專案的資料位置</strong>
+            <strong font-size:13px;> 輸入expo init XXX(專案資料夾名稱) 。</strong>
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b>4.</b><br>
+            <strong font-size:13px;> 輸入cd 您專案資料夾的名稱</strong>
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b>5.</b><br>
+            <strong font-size:13px;>開啟Android Studio</strong>
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b>6.</b><br>
+            <strong font-size:13px;>開啟AVD Manager</strong>
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b>7.</b><br>
+            <strong font-size:13px;>cmd輸入expo start</strong>
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b>8.</b><br>
+            <strong font-size:13px;>EXPO網頁控制介面點選Run on Android device/emulator</strong>
            </div>
         </td>
     </tr>
 </table>
 </div>
 
-</div>
 
 
 
