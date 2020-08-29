@@ -722,7 +722,9 @@ https://www.apachefriends.org/zh_tw/index.html
         <td>
             <div>
             <b>連線至MYSQL</b>
-               <h1 styles={font-size:50;}>&darr;</h1>
+           </div>
+           <div>
+           <h1 styles={font-size:50;}>&darr;</h1>
            </div>
         </td>   
        
