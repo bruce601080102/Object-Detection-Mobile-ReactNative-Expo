@@ -46,6 +46,22 @@
 <div>
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(1)安裝NodeJS</<h3> 
 </div> 
+   
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b>1.</b><br>
+            
+<strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp本機-->右鍵內容-->進階設定-->環境變數-->系統變數(path)-->C:\Program Files\nodejs\ </strong>
+           </div>
+        </td>
+    </tr>
+</table>
+</div>   
+   
+   
 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp本機-->右鍵內容-->進階設定-->環境變數-->系統變數(path)-->C:\Program Files\nodejs\ </strong>
 <div>
    <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(2)安裝python2.7</<h3> 
