@@ -1,7 +1,11 @@
+### 作者:[bruce601080102](https://github.com/bruce601080102) / [nicharleys](https://github.com/nicharleys) 共同建置 
+<br><br><br>
+
 <div align="center">
    <img src="https://github.com/bruce601080102/Expo_ReactNative_ObjectDection_CloudConnection/blob/master/img/136944.gif"  width="400" height="600" "  />
    <img src="https://github.com/bruce601080102/Expo_ReactNative_ObjectDection_CloudConnection/blob/master/img/136942.gif"  width="400" height="600" " />       </div>
   
+
 
 
 # I、介紹
