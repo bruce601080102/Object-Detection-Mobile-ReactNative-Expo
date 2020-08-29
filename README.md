@@ -167,57 +167,51 @@
 </div>
 
 
-
+<div>
+   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp EXPO連線手機模擬器</<h3> 
+</div>
+   
 <div>    
 <table border="1">
     <tr>
         <td>
             <div>
-            <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(1)React Native連結手機模擬器</<h3> 
-           </div>
-        </td>
-         <td>
-            <div>
-            <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(2)EXPO連線手機模擬器</<h3> 
+            <b>1.</b><br>
+            <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong>
            </div>
         </td>
     </tr>
+</table>
+</div>
+<div>    
+<table border="1">
     <tr>
         <td>
             <div>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong><br><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 2.輸入react-native init XXX(專案資料</strong><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 夾名稱)來創建專案</strong><br><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 3.輸入cd 您專案資料夾的名稱。</strong><br><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 4.cmd輸入react-native run-android來開</strong><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 啟模擬器內的React Native專案</strong><br><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 5.等待模擬器畫面出現Welcome to React </strong><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  Native!，代表整體建置成功</strong>
-           </div>
-        </td>
-        <td>
-            <div>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 2.輸入npm install expo-cli –global</strong><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 4.輸入expo init XXX(專案資料夾名稱) 。</strong><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 5.輸入cd 您專案資料夾的名稱</strong><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 6.開啟Android Studio</strong><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 7.開啟AVD Manager</strong><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 8.cmd輸入expo start</strong><br>
-               <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 9.EXPO網頁控制介面點選Run on Android device/emulator</strong>
+            <b>2.</b><br>
+            <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong>
            </div>
         </td>
     </tr>
-
+</table>
+</div>
+<div>    
+<table border="1">
+    <tr>
+        <td>
+            <div>
+            <b>3.</b><br>
+            <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong>
+           </div>
+        </td>
+    </tr>
 </table>
 </div>
 
 
 
 
-<div>
-   <h3 styles={font-weight:bold;}>&nbsp&nbsp&nbsp(2)EXPO連線手機模擬器</<h3> 
-</div>
+
 <div> 
 <strong font-size:13px;>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1.cmd到需您需要製作專案的資料位置</strong>
 </div>
