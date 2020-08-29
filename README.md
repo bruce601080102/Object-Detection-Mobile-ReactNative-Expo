@@ -216,8 +216,36 @@
     <tr>
         <td>
             <div>
-                 <strong font-size:13px;> 1.本機-->右鍵內容-->進階設定-->環境變數-->  </strong> <br>
+               <b>1.</b><br>
+                 <strong font-size:13px;> 本機-->右鍵內容-->進階設定-->環境變數-->  </strong> <br>
                <strong font-size:13px;> 新增變數名稱：ANDROID_HOME-->C:\Users\XXX\AppData\Local\Android\SDK </strong> 
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+
+<div> 
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>2.</b><br>
+                 <strong font-size:13px;> 本機-->右鍵內容-->進階設定-->環境變數-->  </strong> <br>
+               <strong font-size:13px;> 新增變數名稱：JAVA_HOME-->C:\Program Files\Java\jdk1.8.0_162 </strong> 
+           </div>
+        </td>
+    </tr>
+</table>
+</div>
+
+<div> 
+<table border="1">
+    <tr>
+        <td>
+            <div>
+               <b>3.</b><br>
+                 <strong font-size:13px;> 選擇安裝位置 輸入 npm install –g react-native-cli  </strong> 
            </div>
         </td>
     </tr>
